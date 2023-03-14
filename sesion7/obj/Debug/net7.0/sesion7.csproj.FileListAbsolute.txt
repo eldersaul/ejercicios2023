@@ -1,0 +1,15 @@
+D:\Users\eldersaul\code\ejercicios2023\sesion7\bin\Debug\net7.0\sesion7.exe
+D:\Users\eldersaul\code\ejercicios2023\sesion7\bin\Debug\net7.0\sesion7.deps.json
+D:\Users\eldersaul\code\ejercicios2023\sesion7\bin\Debug\net7.0\sesion7.runtimeconfig.json
+D:\Users\eldersaul\code\ejercicios2023\sesion7\bin\Debug\net7.0\sesion7.dll
+D:\Users\eldersaul\code\ejercicios2023\sesion7\bin\Debug\net7.0\sesion7.pdb
+D:\Users\eldersaul\code\ejercicios2023\sesion7\obj\Debug\net7.0\sesion7.csproj.AssemblyReference.cache
+D:\Users\eldersaul\code\ejercicios2023\sesion7\obj\Debug\net7.0\sesion7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\eldersaul\code\ejercicios2023\sesion7\obj\Debug\net7.0\sesion7.AssemblyInfoInputs.cache
+D:\Users\eldersaul\code\ejercicios2023\sesion7\obj\Debug\net7.0\sesion7.AssemblyInfo.cs
+D:\Users\eldersaul\code\ejercicios2023\sesion7\obj\Debug\net7.0\sesion7.csproj.CoreCompileInputs.cache
+D:\Users\eldersaul\code\ejercicios2023\sesion7\obj\Debug\net7.0\sesion7.dll
+D:\Users\eldersaul\code\ejercicios2023\sesion7\obj\Debug\net7.0\refint\sesion7.dll
+D:\Users\eldersaul\code\ejercicios2023\sesion7\obj\Debug\net7.0\sesion7.pdb
+D:\Users\eldersaul\code\ejercicios2023\sesion7\obj\Debug\net7.0\sesion7.genruntimeconfig.cache
+D:\Users\eldersaul\code\ejercicios2023\sesion7\obj\Debug\net7.0\ref\sesion7.dll
